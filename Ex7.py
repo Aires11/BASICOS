@@ -1,0 +1,8 @@
+nome=input('escreva seu nome:')
+email=input('escreva seu email:')
+idade=int(input('escreva sua idade:'))
+altura=float(input('escreva sua altura:'))
+print('Seu nome:',nome)
+print('Seu email:',email)
+print('Sua idade:',idade)
+print('Sua altura:',altura)
